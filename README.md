@@ -3,7 +3,7 @@
 - 🧩 API & Backend Logic — Python (Django)
 - 🌱 I’m currently learning unityscript and Figma
 - 💞️ I’m looking to collaborate on Unity
-- 📫 How to reach me Email: oziliemmanuel16@gmail.com
+- 📫 How to reach me Email: oziliemmanuel@gmail.com
 - ⚙️ Currently exploring DevOps and Scalable System Design
 - 🌍 Based in Abuja, Nigeria
 <!---
